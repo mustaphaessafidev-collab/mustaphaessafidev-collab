@@ -11,7 +11,7 @@ Full-Stack Developer focused on building clean, scalable, and efficient web appl
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mustaphaessafidev-collab&show_icons=true&theme=radical)
-
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=mustaphaessafidev-collab&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 ![GitHub Streak](https://streak-stats.demolab.com?user=mustaphaessafidev-collab&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mustaphaessafidev-collab&layout=compact&theme=radical)
