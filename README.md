@@ -1,31 +1,84 @@
-# 💫 About Me:
-Full-Stack Developer focused on building clean, scalable, and efficient web applications 🚀<br>A Support Ticket Management System with role-based access (Client, Agent, Admin).<br>Open-source Full-Stack projects and REST API–based applications.<br>DevOps basics, CI/CD pipelines, and deployment best practices.<br>Flutter and modern DevOps workflows (GitHub Actions, CI/CD).<br>React, Laravel, RESTful APIs, JWT & Sanctum authentication.<br>I love keeping my code simple, clean, and easy to maintain.
+<h1 align="center">👋 Hi, I'm Mustapha Essafi</h1>
+<h3 align="center">Full-Stack Developer | Clean Code • Scalable Systems • Modern UI</h3>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mustapha-essafi-15482b399/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mustapha.essafi.dev@gmail.com) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mustaphaessafidev-collab&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mustaphaessafidev-collab&layout=compact&theme=radical)
-
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mustaphaessafidev-collab&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mustaphaessafidev-collab&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://www.linkedin.com/in/mustapha-essafi-15482b399/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mustapha.essafi.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mustaphaessafidev-collab&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mustaphaessafidev-collab) 
+## 🚀 About Me
+Full-Stack Developer focused on building **clean, scalable, and efficient web applications**.  
+I enjoy turning complex problems into **simple, maintainable solutions** and working on real-world projects that grow over time.
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🔧 Main project: **Support Ticket Management System** (Client / Agent / Admin)
+- 🌱 Currently learning: **DevOps basics, CI/CD, GitHub Actions**
+- 🎯 Goal: Grow from **Junior → Solid Mid-Level Developer**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=flat)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter)
+
+### UI / UX
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
+
+### Cloud & DevOps (Learning)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions)
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mustaphaessafidev-collab&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustaphaessafidev-collab&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🧠 Currently Improving
+- Writing cleaner backend architecture
+- Better API design & validation
+- CI/CD automation with GitHub Actions
+- Production-ready project structure
+
+---
+
+## 🤝 Let’s Connect
+If you’re interested in collaboration, internships, or junior opportunities:  
+📩 **mustapha.essafi.dev@gmail.com**
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=mustaphaessafidev-collab&icon=0&color=0"/>
+</p>
